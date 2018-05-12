@@ -1,0 +1,72 @@
+_repo: The-Rainbow-Book-Tales-of-Fun--amp--Fancy_37455
+_version: 0.1.0
+alternative_title: 'The Rainbow Book: Tales of Fun and Fancy'
+contributor:
+  illustrators:
+  - agent_name: Rountree, Harry
+    birthdate: 1878
+    gutenberg_agent_id: '7461'
+    url: http://www.gutenberg.org/2009/agents/7461
+  - agent_name: Baumer, Lewis Christopher Edward
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '31813'
+    url: http://www.gutenberg.org/2009/agents/31813
+  - agent_name: Rackham, Arthur
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '6335'
+    url: http://www.gutenberg.org/2009/agents/6335
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Rackham
+  - agent_name: Thomson, Hugh
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '24921'
+    url: http://www.gutenberg.org/2009/agents/24921
+  - agent_name: Pitcher, William J. C.
+    alias: Wilhelm, C.
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '36634'
+    url: http://www.gutenberg.org/2009/agents/36634
+  - agent_name: Partridge, Bernard
+    aliases:
+    - Partridge, John Bernard
+    - Partridge, J. Bernard
+    - Gould, Bernard
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '26310'
+    url: http://www.gutenberg.org/2009/agents/26310
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Partridge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spielmann, M. H. (Mabel Henrietta)
+    alias: Spielmann, Mabel Henrietta
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '38849'
+    url: http://www.gutenberg.org/2009/agents/38849
+description: ''
+gutenberg_issued: '2011-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: Adventures in Wizard-land -- The old-fangled father and his new-fangled
+  sons -- The little picture girl -- The sleeping beauty's dream -- The gamekeeper's
+  daughter -- All on a fifth of November -- Father Christmas at home -- A birthday
+  story -- Little Starry -- Cedric's unaccountable adventure -- Rosella -- The cuckoo
+  that lived in the clock-house -- Christmas at the court of King Jorum -- One April
+  day -- The storm the teapot brewed -- Monica the moon child.
+title: 'The Rainbow Book: Tales of Fun & Fancy'
+url: http://www.gutenberg.org/ebooks/37455
