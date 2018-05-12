@@ -51,6 +51,8 @@ creator:
     gutenberg_agent_id: '38849'
     url: http://www.gutenberg.org/2009/agents/38849
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37455#The-Rainbow-Book-Tales-of-Fun--amp--Fancy
 gutenberg_issued: '2011-09-16'
 gutenberg_type: Text
 identifiers:
