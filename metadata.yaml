@@ -64,6 +64,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Fairy tales'
+- GITenberg
 tableOfContents: Adventures in Wizard-land -- The old-fangled father and his new-fangled
   sons -- The little picture girl -- The sleeping beauty's dream -- The gamekeeper's
   daughter -- All on a fifth of November -- Father Christmas at home -- A birthday
